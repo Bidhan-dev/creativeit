@@ -1,0 +1,386 @@
+@media(min-width:992px) and (max-width:1200px){
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link { 
+        text-align: center;
+    }
+    .course_one { 
+        margin-right: 5px;
+    }
+    .success_txt p { 
+        padding: 0px 205px;
+    }
+    .blackhin p { 
+        font-size: 15px;
+    }
+    .bsss { 
+        padding: 6px 12px; 
+    }
+    .course_edit a { 
+        padding: 20px 60px; 
+    }
+}
+@media(min-width:768px) and (max-width:991px){
+    .iso_left img{
+        padding-top: 10px;
+    }
+    .coursess p {
+        padding: 0px 85px; 
+    }
+    .but_one { 
+        text-align: center;
+    }
+    .skils_middle { 
+        text-align: center;
+        padding: 40px 5px; 
+    }
+    .skils h5 { 
+        font-size: 13px; 
+    }
+    .skils p { 
+        line-height: 22px;
+        justify-content: center;
+        font-size: 14px;
+    }
+    .skils { 
+        padding: 40px 5px; 
+    }
+    .success_txt p { 
+        padding: 0px 100px;
+    } 
+    .sotoro {
+        display:inline-block; 
+    }
+    .bsss { 
+        padding: 5px 10px; 
+    }
+    .practical_right h3 {
+        padding: 0px; 
+        font-size: 32px;
+        text-align: center;
+    } 
+    .practical_left{
+        padding-top: 85px;
+    }
+    .practical_right p { 
+        font-size: 14px;
+        line-height: 23px; 
+    }
+    .expert_left{
+        text-align: center;
+    }
+    .expert_left h3 { 
+        font-size: 38px; 
+        padding: 0px 87px;
+    }
+    .know_more{
+        justify-content: center;
+    }
+    .copy_right p {
+        padding-top: 18px;
+        text-align: center;
+    }
+    .footer_link {
+        padding-top: 16px;
+    }
+}
+
+
+
+
+
+
+
+
+@media(min-width:576px) and (max-width:767px){
+	#call_center{ 
+        display: none;
+    } 
+	
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar{
+        position: static;
+    }
+    .navbar-toggler:focus { 
+        box-shadow:none;
+    }
+    .navbar-expand-sm .navbar-nav .nav-link { 
+        text-align: center;
+    }
+    .navbar-expand-sm .navbar-nav .nav-item { 
+        margin: 0 auto;
+    }
+    .navbar-expand-lg .navbar-nav .nav-item .nav-link { 
+        text-align: center;
+        margin: 0 auto;
+    }
+    .iso_left img{
+        padding-top: 20px;
+    }
+    .coursess p {
+        padding: 0px; 
+    }
+    .slide_button::after { 
+        left: 18px;
+        width: 93%; 
+    }
+    .skils p { 
+        font-size: 13px; 
+        text-align: center;
+    }
+    .skils h5 { 
+        text-align: center;
+    }
+    .success_txt p { 
+        padding: 0px;
+    }
+    .see_more {
+        padding-top: 80px;
+    }
+    .success_txt h2 { 
+        font-size: 44px;
+    }
+    .success_txt_tow {
+        padding-top: 80px;
+    }
+    .commentss a { 
+        padding-right: 9px;
+    }
+    .sotoro {
+        display:inline-block; 
+    }
+    .bsss { 
+        padding: 7px 0px; 
+    }
+    .expert_left{
+        text-align: center;
+    }
+    .expert_left h3 {
+        padding-right: 0px; 
+    }
+    .course_edit { 
+        margin-right: 12px;
+    }
+    .count_item { 
+        margin-top: 15px;
+    }
+    .ul_main .nav-items .nav-links { 
+        font-size: 12px; 
+    }
+    .ft_logo{
+        display: none;
+    }
+    .copy_right p {
+        text-align: center;
+    }
+    .footer_link{
+        text-align: center;
+    }
+
+
+}
+
+
+
+
+@media(max-width:575.99px){
+	
+    #call_center { 
+        display: none;
+    }
+	
+    .navbar-brand img{
+        width: 120px;
+    }
+    .navbar{
+        position: static;
+    }
+    .navbar-toggler:focus { 
+        box-shadow:none;
+    }
+    .navbar-expand-sm .navbar-nav .nav-link { 
+        text-align: center;
+    }
+    .navbar-expand-sm .navbar-nav .nav-item { 
+        margin: 0 auto;
+    }
+	.desh{
+		justify-content: center;
+	}
+    .career{
+        text-align: center;
+    }
+    .career h2 {
+        font-size: 40px; 
+    }
+    .career h1 {
+        font-size: 45px; 
+    }
+    .course{
+        display: none;
+    }
+    .course_one{
+        margin: 0 auto;
+        padding-top: 10px;
+    }
+    .iso_left{
+        padding-top: 15px;
+    }
+    .graphics_res { 
+        width: 62%;   
+        margin: 0 auto;
+    }
+    .coursess p { 
+        padding: 22px;
+    }
+    .all_course_slider{
+        margin-top: 40px;
+}
+.but_one button { 
+	font-size: 8px; 
+}
+.all_l { 
+	top: 68%; 
+}
+.all_r { 
+	top: 68%; 
+}
+.star_right p { 
+	padding-left: 7px; 
+}
+.skils_middle {
+	width: 73%;
+	margin: 0 auto;
+}
+.skils_middles { 
+	padding: 40px 10px; 
+	text-align: center;
+}
+.skils {
+	width: 73%;
+	margin: 0 auto;
+}
+.skils_middle h2 { 
+	font-size: 40px;  
+}
+.skils h2 { 
+	font-size: 40px; 
+}
+.skils_middles h2 { 
+	font-size: 40px; 
+}
+.skils h5 { 
+	font-size: 15px;  
+}
+.skils_middle { 
+	padding: 40px 10px; 
+	text-align: center;
+}
+.skils { 
+	padding: 40px 10px; 
+	margin: 0px 10px;
+	text-align: center;
+    margin: 0 auto;
+}
+.skils p { 
+	text-align: justify;
+} 
+.success_txt h2 {
+	font-size: 40px; 
+}
+.success_txt h2 { 
+	font-size: 34px;
+	line-height: 50px;
+}
+.success_txt p { 
+	font-size: 15px;
+	padding: 0px 0px;
+	line-height: 25px;
+}
+.fb_slide_icon{
+    display: none;
+}
+.star_left i { 
+	font-size: 13px;
+}
+.star_left p { 
+	font-size: 11px; 
+}
+.star_right p { 
+	font-size: 11px; 
+	padding-top: 5px; 
+}
+.free_left{
+    text-align: center;
+}
+.free_left h2 { 
+	font-size: 35px;
+}
+.free_left h4 { 
+	font-size: 18px;
+}
+.pracrical_bg { 
+	padding: 50px 35px; 
+}
+.practical_right h3 { 
+	font-size: 25px;
+    padding: 50px 0px 0px 0px;
+}
+.practical_right p {
+	padding: 0px; 
+}
+.expert_left{
+    text-align: center;
+}
+.expert_left h3 {
+	padding-right: 14px; 
+	font-size: 39px; 
+	line-height: 54px;
+}
+.course_edit a { 
+	padding: 6px 50px; 
+	display: block;
+	margin-right: 10px;
+} 
+.course_edit { 
+	margin-right: 4px;
+}
+.company_head h2 { 
+	font-size: 38px; 
+}
+.ul_main .nav-items .nav-links { 
+	font-size: 13px; 
+}
+.footer_head h2 { 
+	font-size: 32px;
+}
+.footer_head p { 
+	padding: 0px; 
+} 
+.footer_btn { 
+	padding-top: 20px;
+}
+.footer_btn a {
+	padding: 15px 20px; 
+	margin: 0px 36px;   
+	font-size: 15px;
+	margin-bottom: 10px;
+    display: block;
+}
+.payment_accept p { 
+	font-size: 24px; 
+}
+.ft_logo{
+    width: 170px;
+    margin: 0 auto;
+}
+.copy_right p { 
+	padding: 0px 24px;
+	font-size: 13px;
+	text-align: center;
+}
+.footer_link {
+	padding-top: 30px;
+	text-align: center;
+}
+}
